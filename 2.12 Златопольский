@@ -1,0 +1,3 @@
+k=input()
+s=input()
+print(k/s)
