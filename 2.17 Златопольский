@@ -1,0 +1,6 @@
+h=int(input())
+a=int(input())
+b=int(input())
+b1=(b-a)/2
+c=(h**2+b1**2)**0.5
+print(2*c+a+b)
