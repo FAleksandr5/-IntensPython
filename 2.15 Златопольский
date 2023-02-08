@@ -1,0 +1,3 @@
+from math import *
+r, R= int(input()), int(input())
+print(pi*R**2-pi*r**2)
